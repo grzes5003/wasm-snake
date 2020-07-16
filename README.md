@@ -1,8 +1,8 @@
 <div align="center">
 
-  <h1><code>Wasm Snake</code></h1>
+  #Wasm Snake
 
-  <strong>Webassembly + Rust</strong>
+  > #### Webassembly + Rust
 
 </div>
 
